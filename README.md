@@ -4,9 +4,7 @@ Source: BBC
 
 # Metropolitan Police Stop and Search Analysis (June 2017 - July 2020)
 
-<div>
-    <a href="https://plotly.com/~rosshaden/1/?share_key=dApJY2gNQho5Hfs6JKailm" target="_blank" title="Percent Distribution of Stop and Search Incidents 2017 to 2020" style="display: block; text-align: center;"><img src="https://plotly.com/~rosshaden/1.png?share_key=dApJY2gNQho5Hfs6JKailm" alt="Percent Distribution of Stop and Search Incidents 2017 to 2020" style="max-width: 100%;width: 900px;"  width="600">
-</div>
+![header](./images/london.png)
 
 
 

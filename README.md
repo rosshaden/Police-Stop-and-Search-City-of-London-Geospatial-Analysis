@@ -8,7 +8,7 @@ Source: BBC
 
 Stop and search is a divisive topic. Some view it as a necessary evil to help curb violent crime, while others see it as an inherently predatory and even racist practice. Seeking a deeper understanding of the topic, we acquired multiple datasets spanning from mid 2017 to mid 2020, and began to answer the most consequential questions. While statistics in and of themselves cannot provide absolute answers for how we ought to administer a just society, a firm understanding of the data surrounding a subject is an essential prerequisite for reasoned discussion. This analysis aspires to aid that understanding.
 
-The data was acquired from the official UK Police repository: data.police.uk/data
+The data was acquired from the official UK Police repository: https://data.police.uk/data
 
 ## Results
 
@@ -20,9 +20,9 @@ The data was acquired from the official UK Police repository: data.police.uk/dat
 
 #### 3. Which age group is searched most often?
 
-#### 4. What is the ethnicity of the citizens who undergo the most searches?
+#### 4. What is the ethnicity of citizens who are searched the most?
 
-#### 5. What is the ethnicity of the officers who perform the most searches? 
+#### 5. What is the ethnicity of officers who search the most? 
 
 #### 6. Which piece of legislation do officers most commonly invoke to justify a search? 
 

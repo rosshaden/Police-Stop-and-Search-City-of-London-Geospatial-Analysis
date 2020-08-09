@@ -4,7 +4,8 @@ Source: BBC
 
 # Metropolitan Police Stop and Search Analysis (June 2017 - July 2020)
 
-## This analysis answers the following questions: 
+
+## This analysis set out to answer the following questions: 
 
 ### 1. How common is it for a search to be performed on a vehicle, but not the occupant/driver? 
 
@@ -23,5 +24,3 @@ Source: BBC
 ### 8. What is the most common outcome of a search?
 
 ### 9. At which part of the day are most searches perfomed? 
-
-### 10. How does the number of searches vary by each of London's 32 boroughs?

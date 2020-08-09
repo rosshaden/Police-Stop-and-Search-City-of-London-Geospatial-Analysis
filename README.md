@@ -6,7 +6,7 @@ Source: BBC
 
 Stop and search is a hot topic as of late. Some view it as a necessary evil to help curb violent crime, while others see it as an inherently predatory and even racist practice. Seeking a deeper understanding of the topic, we acquired multiple datasets spanning from mid 2017 to mid July 2020, and began to answer what we perceived to be questions of great importance. While statistics in and of themselves cannot provide absolute answers for how we ought to administer a just society, a firm understanding of the data surrounding a subject is an essential prerequisite for reasoned discussion. This analysis aspires to aid that understanding.
 
-The data was acquired from the official UK Police repository data.police.uk/data
+The data was acquired from the official UK Police repository: data.police.uk/data
 
 ### Percent distribution of all stop and search incidents by London borough
 ![header](./images/london2.png)

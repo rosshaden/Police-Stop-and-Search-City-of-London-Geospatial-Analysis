@@ -4,9 +4,8 @@ Source: BBC
 
 # Metropolitan Police Stop and Search Analysis (June 2017 - July 2020)
 
-![header](./images/london.png)
-
-
+### Percent distribution of all stop and search by London borough
+![header](./images/london2.png)
 
 ## This analysis set out to answer the following questions: 
 

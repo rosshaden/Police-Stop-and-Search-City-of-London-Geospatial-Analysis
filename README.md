@@ -24,4 +24,4 @@ Source: BBC
 
 ### 9. At which part of the day are most searches perfomed? 
 
-### 10. How does the number of searches vary by borough?
+### 10. How does the number of searches vary by each of London's 32 boroughs?

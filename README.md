@@ -4,7 +4,7 @@ Source: BBC
 
 # Metropolitan Police Stop and Search Analysis (June 2017 - July 2020)
 
-## The following questions were the impetus for this research, and we explore each in turn: 
+## This analysis answered the following questions: 
 
 ### 1. How common is it for a search to be performed on a vehicle, but not the occupant/driver? 
 

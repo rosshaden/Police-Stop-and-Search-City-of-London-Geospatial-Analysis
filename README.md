@@ -18,7 +18,7 @@ The data was acquired from the official UK Police repository: data.police.uk/dat
 
 #### 2. How much more frequently are males searched compared to females?
 
-#### 3. Which age group undergoes the most searches?
+#### 3. Which age group is searched most often?
 
 #### 4. What is the ethnicity of the citizens who undergo the most searches?
 

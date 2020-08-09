@@ -32,9 +32,7 @@ The data was acquired from the official UK Police repository: data.police.uk/dat
 
 #### 9. At which part of the day are most searches perfomed? 
 
-#### 10. What is the distribution of searches across London's 32 buroughs?
-![header](./images/london2.png)
-
+#### 10. In which of London's 32 buroughs are most searches performed?
 
 ## Getting Started
 1. Clone and `cd` into this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/))

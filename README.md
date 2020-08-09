@@ -8,7 +8,7 @@ Stop and search is a divisive topic. Some view it as a necessary evil to help cu
 
 The data was acquired from the official UK Police repository: data.police.uk/data
 
-### Percent distribution of all stop and search incidents by London borough
+### Percent distribution of all stop and search incidents by London borough from 2017 onwards
 ![header](./images/london2.png)
 
 ## This analysis set out to answer the following questions: 

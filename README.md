@@ -15,66 +15,67 @@ The data was acquired from the official UK Police repository: https://data.polic
 ### 1. How much more frequently are males searched compared to females?
 
 
-<p align="top">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender.png" width="450" height='350'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png" width="450" height='350' /> 
-</p>
+<div style="vertical-align: top;">
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender.png"  width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png"  width='400'/> 
+</div>
+
+
 
 
 ### 2. Which age group is searched most often?
-
-<p align="top">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range.png" width="450" />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range_ethnicity.png" width="450" height='350'/> 
-</p>
+<div style="vertical-align: top;">
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range.png" width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range_ethnicity.png" width='400'
+</div>
 
 
 ### 3. What is the ethnicity of citizens who are searched the most?
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/self_defined_ethnicity.png" width="450" height='350'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/self_defined_ethnicity.png" width='400'/>
 </p2>
 
 ### 4. What is the ethnicity of officers who search the most? 
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity.png" width="450" />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity_ethnicity.png" width="450" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity.png"width='400' />
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity_ethnicity.png"width='400' /> 
 </p2>
 
 ### 5. Which piece of legislation do officers most commonly invoke to justify a search? 
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation.png" width="450"height='350' />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation_ethnicity.png" width="450" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation.png" width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation_ethnicity.png" width='400'/> 
 </p2>
 
 ### 6. What do officers most commonly claim they are looking for to justify a search? 
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search.png" width="450" height='350'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search_ethnicity.png" width="450" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search.png"width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search_ethnicity.png"width='400'/> 
 </p2>
 
 ### 7. What is the most common outcome of a search?
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome.png" width="450" />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome_ethnicity.png" width="450" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome.png" width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome_ethnicity.png"width='400'/> 
 </p2>
 
 ### 8. At which part of the day are most searches perfomed? 
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day.png" width="450" />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day_ethnicity.png" width="450" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day.png" width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day_ethnicity.png"width='400'/> 
 </p2>
 
 ### 9. How does the number of searches vary by London borough? 
 
 <p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png" width="350" height='350'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width="575" height='350'/> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png"width='400'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width='400'/> 
 </p2>
 
 ## Getting Started

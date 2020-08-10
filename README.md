@@ -25,47 +25,81 @@ The data was acquired from the official UK Police repository: https://data.polic
 ### 2. Which age group is searched most often?
   
   <p align="center">
-   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range.png" width='400'/>
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range.png" width='500'/>
   </p>
 
   <p align="center">
-    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range_ethnicity.png" width='400'>
+    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range_ethnicity.png" width='500'>
   </p>
 
 
 ### 3. What is the ethnicity of citizens who are searched the most?
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/self_defined_ethnicity.png" width='400'/>
+ <p align="center">
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/self_defined_ethnicity.png" width='500'/>
+  </p>
 
 ### 4. What is the ethnicity of officers who search the most? 
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity.png"width='400' />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity_ethnicity.png"width='400' /> 
+
+ <p align="center">
+    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity.png" width='500' />
+  </p>
+  
+   <p align="center">
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/officer_defined_ethnicity_ethnicity.png" width='500' />
+  </p>
 
 ### 5. Which piece of legislation do officers most commonly invoke to justify a search? 
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation.png" width='400'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation_ethnicity.png" width='400'/> 
+ <p align="center">
+    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation.png" width='500'/>
+  </p>
+  
+   <p align="center">
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/legislation_ethnicity.png" width='500'/> 
+  </p>
 
 ### 6. What do officers most commonly claim they are looking for to justify a search? 
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search.png"width='400'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search_ethnicity.png"width='400'/> 
+ <p align="center">
+    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search.png" width='500'/>
+  </p>
+  
+   <p align="center">
+    <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/object_of_search_ethnicity.png" width='500'/>
+  </p> 
 
 ### 7. What is the most common outcome of a search?
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome.png" width='400'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome_ethnicity.png"width='400'/> 
+ <p align="center">
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome.png" width='500'/>
+  </p>
+  
+   <p align="center">
+   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/outcome_ethnicity.png"width='500'/> 
+  </p> 
 
 ### 8. At which part of the day are most searches perfomed? 
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day.png" width='400'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day_ethnicity.png"width='400'/> 
+ <p align="center">
+   
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day.png" width='500'/>
+  </p>
+  
+   <p align="center">
+     <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/part_of_day_ethnicity.png" width='500'/> 
+  </p> 
 
 ### 9. How does the number of searches vary by London borough? 
 
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png"width='300'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width='500'/> 
+ <p align="center">
+ <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png" width='500'/>
+  </p>
+  
+   <p align="center">
+       <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width='600'/>  
+  </p> 
 
 ## Getting Started
 1. Clone and `cd` into this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/))

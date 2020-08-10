@@ -14,18 +14,20 @@ The data was acquired from the official UK Police repository: https://data.polic
 
 ### 1. How much more frequently are males searched compared to females?
 
-<p float="left">
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender.png" width="450" />
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png" width="450" /> 
-</p2>
+
+<p align="top">
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender.png" width="450" height='350'/>
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png" width="450"height='350 /> 
+</p>
 
 
 ### 2. Which age group is searched most often?
 
-<p float="left">
+<p align="top">
   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range.png" width="450" />
   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/age_range_ethnicity.png" width="450" /> 
-</p2>
+</p>
+
 
 ### 3. What is the ethnicity of citizens who are searched the most?
 

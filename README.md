@@ -94,11 +94,11 @@ The data was acquired from the official UK Police repository: https://data.polic
 ### 9. How does the number of searches vary by London borough? 
 
  <p align="center">
- <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png" width='500'/>
+ <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/borough.png" width='550'/>
   </p>
   
    <p align="center">
-       <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width='600'/>  
+       <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/geospatial.png" width='700'/>  
   </p> 
 
 ## Getting Started

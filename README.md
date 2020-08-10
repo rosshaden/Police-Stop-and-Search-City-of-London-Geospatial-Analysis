@@ -17,7 +17,7 @@ The data was acquired from the official UK Police repository: https://data.polic
 
 <p align="top">
   <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender.png" width="450" height='350'/>
-  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png" width="450"height='350 /> 
+  <img src="https://github.com/rosshaden/Metropolitan-Police-Stop-and-Search-Analysis/blob/master/figures/gender_ethnicity.png" width="450" height='350' /> 
 </p>
 
 

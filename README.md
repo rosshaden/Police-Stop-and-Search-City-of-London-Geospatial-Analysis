@@ -6,7 +6,7 @@ Source: BBC
 
 #### Project Status: In progress
 
-Stop and search is a divisive topic. Some view it as a necessary evil to help curb violent crime, while others see it as an inherently predatory and even racist practice. Seeking a deeper understanding of the topic, we acquired datasets spanning from mid 2017 to mid 2020, and began to answer the most consequential questions. While statistics in and of themselves cannot provide absolute answers for how we ought to administer a just society, a firm understanding of the data surrounding a subject is an essential prerequisite for reasoned discussion. This analysis aspires to aid that understanding.
+Stop and search is a divisive topic. Some view it as a necessary evil to help curb violent crime, while others see it as an inherently discriminatory practice. Seeking a deeper understanding of the topic, we acquired datasets spanning from mid 2017 to mid 2020, and began to produce a visual analysis.
 
 The data was acquired from the official UK Police repository: https://data.police.uk/data
 
